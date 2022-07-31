@@ -1,0 +1,5 @@
+# rc95 30/07/2022 22:28
+
+# credenciales mongoDB
+MONGODB_URL="mongodb://127.0.0.1:27017/nombre-de-tu-base-de-datos"
+
